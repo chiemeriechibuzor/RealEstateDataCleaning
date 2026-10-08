@@ -182,7 +182,7 @@ DROP COLUMN owneraddress, Taxdistrict,propertyaddress
 ALTER TABLE Nashilledata
 DROP COLUMN newowneraddress ,ownernewcity, ownernewstate, salesdateconverted
 
-ALTER TABLE Nashilledata
+ALTER TABLE NashVilledata
 DROP COLUMN saledate
 
 --The data is now clean for use. 
@@ -195,4 +195,6 @@ DROP COLUMN saledate
 --IN Removing duplicates I used Common tables expression (CTE), RowNumbers,and partition by functions.
 --then finally I deleted inoperable columns using the Alter table and drop column function.  
 
---------------------------------------------Bienvenue !                    
+🤝 Let's Connect
+
+I design pipelines that make data reliable. If you have any questions about the script architecture or want to discuss how I can optimize your team's data processes, feel free to reach out!                 
