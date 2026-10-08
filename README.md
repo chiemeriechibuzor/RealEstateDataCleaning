@@ -1,5 +1,14 @@
+
+
 # RealEstateDataCleaning
-Here's a brief walkthrough of the steps I took to clean real estate housing data:
+Here's a brief walkthrough of the steps I took to clean real estate housing data:🛠️ Tech Stack & SQL Concepts Demonstrated
+
+• Language: SQL (Microsoft SQL Server / PostgreSQL compatible)
+• Advanced Techniques: Common Table Expressions (CTEs), Window Functions (ROW_NUMBER(), PARTITION BY)
+• String Manipulation: SUBSTRING, CHARINDEX, PARSENAME / PARSE
+• Data Transformation: CASE Statements, ALTER TABLE, DROP COLUMN, Type Casting (CONVERT/CAST)
+
+**Data Cleaning Pipeline & Implementation Details**
 
 **Data Formatting:**
 Using the converted query, I transformed the date format and populated the property address.
